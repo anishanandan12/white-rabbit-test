@@ -588,4 +588,7 @@ body {
   .heroSection__top > .container {
     flex-direction: column;
   }
+  .topbar__ctaLink {
+    padding: 9px 10px;
+  }
 }
